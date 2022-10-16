@@ -18,3 +18,7 @@ Attendance management System is Java Swing project for tracking students attenda
       Front end : Java Swing.
       Database :Mysql Database
       IDE Used : Netbeans 8.1
+
+# overview
+
+![Attendance-Management-System-Project-In-Java-Teacher-Information](https://user-images.githubusercontent.com/96967364/196019234-3e66be08-f560-48bc-bb8b-261c5df76ae9.png)
